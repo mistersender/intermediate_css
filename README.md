@@ -4,10 +4,10 @@ If you've ever asked, "Why is my CSS doing that?!", this is the class for you. W
 
 ## Covering
 
+* Preprocessors (Stylus)
 * CSS Methodologies:
   * BEM
   * ITCSS
   * SMACSS
-* Preprocessors (Stylus)
 * flexbox
 * units of measure
