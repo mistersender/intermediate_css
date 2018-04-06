@@ -1,0 +1,27 @@
+{
+  "name": "css_intermediate_presentation",
+  "version": "1.0.0",
+  "description": "If you've ever asked, \"Why is my CSS doing that?!\", this is the class for you. We will cover some more in-depth CSS topics, specifically about architecting CSS to make development a breeze. We'll talk about common CSS patterns including BEM, ITCSS & SMACSS and how they can help make CSS simpler to understand. Along with architecture, we'll also cover some of the basics of CSS preprocessors and how developers can get started using them to their advantage.",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch",
+    "build": "gulp build"
+  },
+  "author": "Jessica Kennedy <jessica.kennedy@inmar.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}
